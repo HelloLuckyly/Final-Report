@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LTS_JobSearch:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/LTS_JobSearch_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LTS_JobSearch/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LTS_JobSearch" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
